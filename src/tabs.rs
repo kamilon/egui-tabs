@@ -1,4 +1,4 @@
-use egui::{Button, Ui};
+use egui::Ui;
 
 pub struct Tab {
     pub sizing: f32,
